@@ -1,1 +1,3 @@
-**Cisco BGP RR config example**<br>
+Cisco BGP RR config example.
+!------------------------------------------------------!
+
