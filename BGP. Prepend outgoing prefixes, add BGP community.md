@@ -1,5 +1,5 @@
-### Prepend outgoing prefixes to ISP or eBGP neighbor. Add BGP community to advertised prefixes.
-### Also prepending incoming prefixes. Config example to avoid, poison the specific neighbour/ISP.
+### Prepend outgoing prefixes to ISP or eBGP neighbor. Add BGP community to advertised prefixes. <br>
+Also prepending incoming prefixes. Config example to avoid, poison the specific neighbour/ISP.
 
 **On Arista or Cisco:**
 ```cisco
